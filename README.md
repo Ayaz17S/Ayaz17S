@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I'm Ayaz Sheikh from New Delhi,India<br><br>- 🔭 I’m  an Engineering Student<br>- 📚 I'm currently learning Javascript</p>
+<p align="left">I'm Ayaz Sheikh from Lucknow,India<br><br>- 🔭 I’m  an Engineering Student<br>- 📚 I'm currently learning Javascript</p>
 
 ###
 
